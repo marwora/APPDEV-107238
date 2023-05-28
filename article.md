@@ -5,6 +5,7 @@ including web development, data science, artificial intelligence, and more. It i
 easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article,
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
+
 ![python-logo](https://www.python.org/static/img/python-logo@2x.png)
 
 ## Why Python is Popular
