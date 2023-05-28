@@ -70,3 +70,34 @@ tasks. Some of the most popular libraries include:
 | **Pandas**       | A library for working with data frames and data analysis. |
 | **Matplotlib**   | A library for creating visualizations and plots.          |
 | **Scikit-learn** | A library for machine learning and data mining.           |
+
+## Python Functions
+
+Python functions are blocks of code that can be reused multiple times. A function is defined using
+the `def` keyword, followed by the function name and a set of parentheses. The code inside the
+function is executed when the function is called.
+
+For example, the following code defines a function called greet that prints a message:
+
+```
+def greet(name):
+    print(f"Hello, {name}")
+
+greet("John")
+```
+
+When the code is run, it will print "Hello, John".
+
+### Built-in Functions
+
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
+as:
+
+| **Function** | **Description**                                                             |
+| :----------- | :-------------------------------------------------------------------------- |
+| `print()`    | The *print* function is used to display output to the console.              |
+| `len()`      | The *len* function is used to find the length of a string or a list.        |
+| `str()`      | The *str* function is used to convert a value to a string.                  |
+| `int()`      | The *int* function is used to convert a value to an integer.                |
+| `min()`      | The *min* function is used to find the minimum value in a list or a string. |
+| `max()`      | The *max* function is used to find the maximum value in a list or a string. |
